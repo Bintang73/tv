@@ -89,7 +89,7 @@ http://fm1077.serv00.net/Smart.php?id=Vellithirai
 https://live-kg.jixie.media/live/ktv_lhd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.id
-deviceId=ODg5MGFlODgtYzk1Ni00ZThiLThmMzMtZjI4MWYwM2JhZTEx
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="NATIONAL TV" group-title="NATIONAL TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI
+#KODIPROP:inputstream.adaptive.license_key=https://vmx-lab-vcas.mirada-cloud.com:8064?deviceId=ODg5MGFlODgtYzk1Ni00ZThiLThmMzMtZjI4MWYwM2JhZTEx
+#EXTINF:-1 group-title="Test", jancoktv
+#EXTVLCOPT:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
