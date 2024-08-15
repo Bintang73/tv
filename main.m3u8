@@ -1,0 +1,95 @@
+#EXTM3U
+########################## NATIONAL TV #########################
+
+//////////HBO GROUP///////////
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmM4NzQ6YThlYjpiZmI4OmRlODkiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImhibyIsInNpZ25hdHVyZUtleSI6Ijk1NzcyMTUwZjE5YzM2MmZiMDQ2OTkwYmNmZjA4NTIxIiwicHJvdmlkZXIiOiJtYXhzdHJlYW0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMzE5MDY2Mn0
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="HBO Group",HBO (MAX)
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmM4NzQ6YThlYjpiZmI4OmRlODkiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Imhib2hpdHMiLCJzaWduYXR1cmVLZXkiOiI5OWU1NWYyMDU4YWY3MjdjYmRhMjg4MmVlMzFjOGE4NCIsInByb3ZpZGVyIjoibWF4c3RyZWFtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjMxOTA2NjJ9
+#EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="HBO Group",HBO HITS (MAX)
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmM4NzQ6YThlYjpiZmI4OmRlODkiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Imhib3NpZyIsInNpZ25hdHVyZUtleSI6IjNlNjJhNDk2OGNjNTRkNWVjZDE2NWQ1YzdhYWI1OTM5IiwicHJvdmlkZXIiOiJtYXhzdHJlYW0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMzE5MDY2Mn0
+#EXTINF:-1 tvg-name="HBO SIGN" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="HBO Group",HBO SIGN (MAX)
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Warna
+http://fm1077.serv00.net/Smart.php?id=Warna-O
+http://fm1077.serv00.net/Smart.php?id=Warna
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ria
+http://fm1077.serv00.net/Smart.php?id=Ria49
+http://fm1077.serv00.net/Smart.php?id=Ria_quanjia
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Prima
+http://fm1077.serv00.net/Smart.php?id=Prima49
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ceria
+http://fm1077.serv00.net/Smart.php?id=Ceria
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Oasis
+http://fm1077.serv00.net/Smart.php?id=Oasis
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Citra
+http://fm1077.serv00.net/Smart.php?id=Citra
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Sensasi
+http://fm1077.serv00.net/Smart.php?id=Sensasi
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Aura
+http://fm1077.serv00.net/Smart.php?id=Aura
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Rania
+http://fm1077.serv00.net/Smart.php?id=Rania-0
+http://fm1077.serv00.net/Smart.php?id=Rania
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Vaanavil
+http://fm1077.serv00.net/Smart.php?id=Vaanavil
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",sport astro
+http://fm1077.serv00.net/Smart.php?id=Supersport-49
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",sport Astro 2
+http://fm1077.serv00.net/Smart.php?id=Supersport2-49
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", AEC
+http://fm1077.serv00.net/Smart.php?id=Aec-49
+http://fm1077.serv00.net/Smart.php?id=Aec
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Hua hee dai backup
+http://fm1077.serv00.net/Smart.php?id=Huaheedai-49
+http://fm1077.serv00.net/Smart.php?id=Huaheedai
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Vinmeen hd
+http://fm1077.serv00.net/Smart.php?id=Vinmeen-0
+http://fm1077.serv00.net/Smart.php?id=Vinmeen
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Vellithiraihd
+http://fm1077.serv00.net/Smart.php?id=Vellithirai-49
+http://fm1077.serv00.net/Smart.php?id=Vellithirai
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi 
+#EXTINF:-1 group-title="Test", ktv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://live-kg.jixie.media/live/ktv_lhd.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.id
+deviceId=ODg5MGFlODgtYzk1Ni00ZThiLThmMzMtZjI4MWYwM2JhZTEx
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="NATIONAL TV" group-title="NATIONAL TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
