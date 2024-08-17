@@ -41,9 +41,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinem
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 group-title="Film" tvg-logo="https://iptv.urfan.web.id/logo/cixtra.png",Soccer Channel
+#EXTINF:-1 group-title="Film" tvg-logo="https://static.mncnow.id/images/channel/aed3fc77/ddf7_r32.jpg",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vmx-lab-vcas.mirada-cloud.com:8064?deviceId=ODg5MGFlODgtYzk1Ni00ZThiLThmMzMtZjI4MWYwM2JhZTEx
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODgyMDBjZDAtOTZhOS0zYzIxLWFkYTQtMjBlMWY1MjdlZjRj
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
