@@ -1,10 +1,10 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vmx-lab-vcas.mirada-cloud.com:8064?deviceId=ZDBjNGM3OGMtZTQwNC00NjBmLTlmNmItYjFhZDhkNDBlY2I5
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTcyNTkzMTk4NSwiaWF0IjoxNzI1OTMxMzg1LCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiMTQ3N2ZkMzktOGE1Ny00OTk5LThjOGYtNThiZGRjODI4ZWQyIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0IjpmYWxzZSwiY2FuX3BsYXkiOnRydWUsImNhbl9yZW5ldyI6dHJ1ZSwibGljZW5zZV9kdXJhdGlvbl9zZWNvbmRzIjoxNDQwMH19LCJzdWIiOiIwMDAwMDAwMDAwMDAwMDAwMDAxNiIsInN1YnNjcmliZXIiOiJhbm9ueW1vdXMiLCJ2ZXIiOjF9.dBIyD2RGBSPlobmwLzX-797s70ltgfaCAF8RKXIvbVRa9-eedySHC5xl3jySnXnVGB7jZxu-cfifT4W3GS3vSQ
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png" group-title="Sports",Ngising Bolo
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png" group-title="Sports",Apaan Tuh
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg",SPO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
