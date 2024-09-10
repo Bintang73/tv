@@ -7,10 +7,10 @@
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJraWQiOiJjMTgxOTkzYy1mODUyLTQ0MmQtOTY1Yi1hMmI3MzU4ZGI5NjkiLCJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjEsImlzcyI6InZpc2lvbnBsdXMiLCJzdWIiOiIwMDAwMDAwMDAwMDAwMDAwMDExOSIsImlhdCI6MTcyNTkzNjM1NSwiZXhwIjoxNzI1OTM2OTU1LCJqdGkiOiI4YjQzYTc3NC1iOGZhLTQzOTktYTY3YS1lYTA3MTQwN2Y4MTciLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsInBvbGljeSI6eyJ3aWRldmluZSI6eyJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJjYW5fcGVyc2lzdCI6ZmFsc2V9fX0.RrzxKtecLUfXM6FHr_i09ysV_iR0JQNbyCSbwLhPmaUzr2QP6C1D_NO3I4k0GWe1YjfRwkLr5XSN2K603xD5Sg
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=ygfooRVM0i7jHP4Gn4Ji1jAQS6Ul4pJfmYN4tF7XYHFZ7DZ0ld3d3XIuBRDBrC4Vjisu-CyGOxPvk-6ilbKwwWITGfIkUI4uxmfXP2niu86rRldou2rSQKFDDxpuwvWyWuZ8E3TexMbh-NL7XYQF78FqZjS-OMfjdU1CPFjNsh1WHl0x9Qp5bfquRz5ntt_nj9T5yb84FvWgxK-Z-f1zVyeUd3BqEPimQclvSzzzI9s=
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png" group-title="Sports",POLAND
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png" group-title="Sports",PemvoDOHan
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/index.mpd
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg",SPO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
